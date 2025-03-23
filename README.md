@@ -23,6 +23,7 @@ STUDENT_LIST
 Le fichier `Dockerfile` est utilisé pour construire l'image Docker de l'API Flask. Voici son contenu :
 
 ![alt text](image-11.png)
+
 **explication** :
 
 `FROM python:3.8-slim`:
